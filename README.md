@@ -129,16 +129,6 @@ ESP32-Room-Automation/
 
 ---
 
-## 🚀 Future Improvements
-
-* 🌍 Internet control (IoT cloud integration)
-* 📱 Mobile app (React Native)
-* 🔐 Authentication system
-* 📊 Real-time graphs
-* ⏱ Scheduling (timers/automation)
-
----
-
 ## 📜 License
 
 This project is open-source and free to use.
