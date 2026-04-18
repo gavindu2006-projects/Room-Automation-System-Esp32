@@ -1,4 +1,4 @@
-# 🏠 ESP32 Room Automation System
+# 🏠 Room Automation System (ESP32)
 
 A simple and efficient **ESP32-based home automation system** with a modern web interface.
 Control lights and fan, and monitor temperature & humidity in real-time — all through a captive WiFi portal.
