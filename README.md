@@ -129,12 +129,22 @@ ESP32-Room-Automation/
 
 ---
 
-## 📜 License
+## 👨‍💻 Author
 
-This project is open-source and free to use.
+**gavindu2006**
 
 ---
 
-## 🙌 Author
+## ⭐ Support
 
-**gavindu2006**
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 🛠️ Improve it
+
+---
+
+## 📜 License
+
+* This project is open-source and free to use.
