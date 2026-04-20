@@ -137,4 +137,4 @@ This project is open-source and free to use.
 
 ## 🙌 Author
 
-**Gavindu2006**
+**gavindu2006**
